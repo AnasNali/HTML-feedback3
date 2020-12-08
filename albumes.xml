@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE albumes SYSTEM "albumes.dtd">
+
+<albumes>
+    <album id="primer_album">
+        <titulo formato="cd" idioma="en">Violator</titulo>
+        <grupo>Despeche Mode</grupo>
+        <año>1990</año>
+        <singles>
+            <single>Personal Jesus</single>
+            <single>Enjoy the Silence</single>
+            <single>Policy of truth</single>
+            <single>World in my eyes</single>
+        </singles>
+    </album>
+
+    <album id="segundo_album">
+        <titulo formato="cd" idioma="en">OK Computer</titulo>
+        <grupo>Radiohead</grupo>
+        <año>1997</año>
+        <singles>
+            <single>Paranoid Android</single>
+            <single>Karma Police</single>
+            <single>No surprises</single>
+        </singles>
+    </album>
+
+    <album id="tercer_album">
+        <titulo formato="vinilo" idioma="es">Como la cabeza al sombrero</titulo>
+        <grupo>El último de la fila</grupo>
+        <año>1988</año>
+        <singles>
+        </singles>
+    </album>
+
+    <album id="cuarto_album">
+        <titulo formato="mp3" idioma="es">Hacia lo salvaje</titulo>
+        <grupo>Amaral</grupo>
+        <año>2011</año>
+        <singles>
+            <single>Hacia lo salvaje</single>
+            <single>Cuando suba la marea</single>
+            <single>Hoy es el principio del final</single>
+        </singles>
+    </album>
+</albumes>
